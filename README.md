@@ -25,8 +25,6 @@ A **FastAPI-based endpoint** designed to serve real-time, updating business appl
 - **Redis Service:** Caches user streaming data and persists last known states for inactive users  
 - **Data Lake:** Uses Kafka for real-time streaming, Trino for querying, and Delta Lake for storage  
 
-> Diagram illustrates the flow of user data from authentication to streaming and storage.
-
 ---
 
 ## Tech Stack
