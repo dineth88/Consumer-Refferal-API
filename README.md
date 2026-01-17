@@ -37,6 +37,8 @@ A **FastAPI-based endpoint** designed to serve real-time, updating business appl
 
 ---
 
+![Image](https://github.com/user-attachments/assets/94814f79-5b68-437f-9b12-614ef7d69678)
+
 ## Installation
 
 Clone the repository:
@@ -45,5 +47,5 @@ Clone the repository:
 git clone https://github.com/<your-username>/consumer-referral-api.git
 cd consumer-referral-api
 
-![Architecture Diagram](https://github.com/user-attachments/assets/94814f79-5b68-437f-9b12-614ef7d69678)
+
 
