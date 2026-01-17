@@ -45,4 +45,5 @@ Clone the repository:
 git clone https://github.com/<your-username>/consumer-referral-api.git
 cd consumer-referral-api
 
-<img width="967" height="564" alt="Image" src="https://github.com/user-attachments/assets/94814f79-5b68-437f-9b12-614ef7d69678" />
+![Architecture Diagram](https://github.com/user-attachments/assets/94814f79-5b68-437f-9b12-614ef7d69678)
+
