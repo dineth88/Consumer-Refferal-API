@@ -33,12 +33,11 @@ A **FastAPI-based endpoint** designed to serve real-time, updating business appl
 
 ## Tech Stack
 
-- **Backend:** Python, FastAPI  
-- **Streaming:** Kafka, PySpark  
-- **Caching:** Redis  
-- **Data Storage:** Delta Lake, Hive Metastore, Trino  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **Deployment:** Docker (optional)  
+- **Backend:** FastAPI  
+- **Streaming:** Kafka  
+- **Caching:** Redis
+- **Data Storage:** Redis AOF, Trino  
+- **Deployment:** Docker 
 
 ---
 
