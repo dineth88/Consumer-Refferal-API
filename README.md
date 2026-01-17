@@ -1,4 +1,6 @@
 # App Consumer Data FASTAPI
+
+## Architecture Overview
 ![Image](https://github.com/user-attachments/assets/3a4be860-844e-4b85-b74c-0921269d4ef7)
 
 A **FastAPI-based endpoint** designed to serve real-time, updating business applications by consuming user device information. The system leverages **Kafka** for streaming, **Redis** for caching, and integrates with a **Delta Lake** architecture to provide scalable, low-latency data access.
@@ -15,10 +17,6 @@ A **FastAPI-based endpoint** designed to serve real-time, updating business appl
 - Optimized for both active and inactive users with persistent Redis caching  
 
 ---
-
-## Architecture Overview
-
-**User → Auth Service → Redis → Sync Service → Data Lake (Kafka + Trino)**
 
 **Components:**
 
